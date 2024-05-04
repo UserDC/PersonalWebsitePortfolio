@@ -28,7 +28,8 @@ background-repeat: no-repeat;
 h1, h3{
 
 color: white;
-
+justify-content: center;
+text-align: center;
 
 }
 
